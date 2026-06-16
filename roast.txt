@@ -1,0 +1,15 @@
+*Your code doesn't have bugs, it just has undocumented features.*
+*I'd roast your code, but it's already burning from all those console.log() statements*
+*Your variable names are so cryptic, even the rubber duck gave up debugging.*
+*I've seen better error handling in a try-finally block with no catch.*
+*Your code is like a bad magic trick - nobody knows how it works, including you.*
+*Did you test this, or did you just hope really hard?*
+*This code was written by someone who thinks `var` is a type system.*
+*Your nested callbacks look like the Leaning Tower of Pisa*
+*I've seen better documentation in a README that just says "it works"*
+*If your code was a house, the building inspector would condemn it on sight.*
+*Your commit messages are so vague, archaeologists couldn't decipher them.*
+*I've seen better code organization in a teenager's bedroom.*
+*Your function does seventeen things, but none of them are documented.*
+*This is what happens when someone learns to code from Stack Overflow at 3 AM.*
+*Your code reviews must be a nightmare - even ChatGPT is confused.*

@@ -15,15 +15,15 @@ loading = ["Hacking the mainframe...", "Consulting the oracle...", "Summoning th
 container = st.container(border=True)
 with container:
     st.header("AI Excuse Generator 🎮")
-problem = st.text_input("Enter a problem:", placeholder="Why didn't you do your homework?")
-if st.button("Generate Excuse"):
-    if not problem:
-        st.warning("My brain is empty! Please enter a problem to generate an excuse.")
-    # Placeholder for AI excuse generation logic
-    else:
-        with st.spinner(random.choice(loading)):
-            excuse = generate_excuse(problem)
-        st.write(excuse)
+    problem = st.text_input("Enter a problem:", placeholder="Why didn't you do your homework?")
+    if st.button("Generate Excuse"):
+        if not problem:
+            st.warning("My brain is empty! Please enter a problem to generate an excuse.")
+        # Placeholder for AI excuse generation logic
+        else:
+            with st.spinner(random.choice(loading)):
+                excuse = generate_excuse(problem)
+            st.write(excuse)
 
 container = st.container(border=True)
 with container:
