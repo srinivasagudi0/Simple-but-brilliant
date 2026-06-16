@@ -1,0 +1,45 @@
+Write code that checks if a string is a palindrome
+Design a load balancing strategy for a high-traffic web application
+Implement a function that finds all permutations of a string
+Create a function that calculates the factorial of a number
+Write a program that validates email format with regex
+Implement a function that converts decimal to binary
+Design a system architecture for a real-time chat application
+Write code to remove duplicates from a list
+Create a function that counts vowels in a text
+Write a technical proposal for migrating legacy code to microservices
+Implement a function that sorts an array without using built-in sort
+Write a function that reverses a string without using built-in reverse methods
+Create a security audit checklist for web applications
+Write code that finds the most common character in a string
+Design a database schema for an e-commerce platform
+Implement a function that checks if a number is prime
+Create a technical blog post explaining the time complexity of different sorting algorithms
+Write a program that converts temperature from Celsius to Fahrenheit
+Write code to merge two sorted arrays
+Create a function that flattens a nested list
+Implement a function that finds the second largest number in an array
+Write a post-mortem analysis template for incident management
+Write a program that finds the intersection of two lists
+Create a function that checks if a number is a perfect square
+Write a program that generates the Fibonacci sequence up to n numbers
+Design a CI/CD pipeline architecture with best practices
+Implement a function that checks if two strings are anagrams
+Write documentation for setting up a local development environment
+Create a function that finds the longest word in a sentence
+Write a case study analyzing a famous software failure and lessons learned
+Write code that rotates an array by k positions
+Create a tutorial series on debugging techniques and tools
+Write a function that validates if a string contains balanced parentheses
+Write comparative analysis between SQL and NoSQL databases
+Implement code review guidelines for a development team
+Design a caching strategy for a distributed system
+Write a program that calculates the sum of digits in a number
+Create a technical interview preparation guide for junior developers
+Design an API rate limiting strategy with implementation details
+Write a disaster recovery plan for a production environment
+Implement a function that finds the nth Fibonacci number efficiently
+Create a function that calculates the greatest common divisor (GCD)
+Write documentation for a REST API with multiple endpoints
+Create a presentation outline on "Best Practices in Cloud Computing"
+Create a performance optimization roadmap for a legacy application

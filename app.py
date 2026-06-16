@@ -7,10 +7,23 @@ import time
 st.set_page_config(page_title="Simple but Brilliant!", page_icon="👍", layout="wide")
 
 st.title("Simple but Brilliant!")
+st.caption("A collection of intentionally useless but funny mini-tools.")
 st.markdown('<p style="text-align: center; color: #aaa; font-size: 16px;">Stupid tools for stupidly brilliant humans.</p>', unsafe_allow_html=True)
 
 loading = ["Hacking the mainframe...", "Consulting the oracle...", "Summoning the AI spirits...", "Hacking NASA for data...", "Asking the AI gods for wisdom..."
         "Running on hamster power...", "Consulting the magic 8-ball...", "Asking the AI for a coffee break...", "Asking a monkey...", "Talking to god himself..."]
+
+container = st.container(border=True)
+with container:
+    st.header("Daily Challenge 🏆")
+    st.markdown("Every day, I will give you a random challenge to complete. Are you ready to test your skills and have some fun? Click the button below to get your daily challenge!")
+    if st.button("Get Daily Challenge"):
+        with st.spinner(random.choice(loading)):
+            time.sleep(0.9)
+        with open("challenge.txt", "r") as f:
+            challenges = f.read()
+            challenges = challenges.split("\n")
+        st.write(random.choice(challenges))
 
 container = st.container(border=True)
 with container:
